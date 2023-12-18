@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sti3gl
 - 👀 I’m interested in WEB 3.0
 - 🌱 I’m currently learning Motoko
-- 💞️ I’m looking forward to push the decentralization of the web. 
+- 💞️ Trying to push the decentralization of the web. 
 - 📫 How to reach me DSCVR or Twitter/X: Sti3gl
 
 <!---
