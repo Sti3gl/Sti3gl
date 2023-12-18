@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sti3gl
 - 👀 I’m interested in WEB 3.0
 - 🌱 I’m currently learning Motoko
-- 💞️ I’m looking to collaborate on the Internet 
-- 📫 How to reach me DSCVR: Sti3gl
+- 💞️ I’m looking to help the decentralization of the web. 
+- 📫 How to reach me DSCVR or Twitter/X: Sti3gl
 
 <!---
 Sti3gl/Sti3gl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
