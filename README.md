@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sti3gl
+- 👋 Hi, I’m @Lukas
 - 👀 I’m looking for inspiration and like minded people
 - 🌱 I’m currently training as a developper
 - 💞️ Love everything Tech/Pixel related 
